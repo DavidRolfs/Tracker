@@ -1,5 +1,5 @@
---temp-output:c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\obj\Debug\netcoreapp1.0\
---out:c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\bin\Debug\netcoreapp1.0\Tracker.dll
+--temp-output:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\obj\Debug\netcoreapp1.0\
+--out:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\bin\Debug\netcoreapp1.0\Tracker.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -183,14 +183,22 @@
 --reference:C:\Users\epicodus\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\obj\Debug\netcoreapp1.0\Trackerdotnet-compile.deps.json",Tracker.deps.json
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Program.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Startup.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Controllers\AccountController.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816163208_Initial.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816163208_Initial.Designer.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Migrations\ApplicationDbContextModelSnapshot.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Models\ApplicationDbContext.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\Models\ApplicationUser.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\ViewModels\LoginViewModel.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\ViewModels\RegisterViewModel.cs
+--resource:"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\obj\Debug\netcoreapp1.0\Trackerdotnet-compile.deps.json",Tracker.deps.json
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Program.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Startup.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Controllers\AccountController.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816163208_Initial.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816163208_Initial.Designer.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816174005_Tables.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816174005_Tables.Designer.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816174302_availIn.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Migrations\20170816174302_availIn.Designer.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Models\ApplicationDbContext.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Models\ApplicationUser.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Models\Associate.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Models\Comment.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Models\Inventory.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\Models\Transaction.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\ViewModels\LoginViewModel.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\ViewModels\RegisterViewModel.cs
