@@ -1,5 +1,5 @@
---temp-output:c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\obj\Debug\netcoreapp1.0\
---out:c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\bin\Debug\netcoreapp1.0\Tracker.Tests.dll
+--temp-output:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\obj\Debug\netcoreapp1.0\
+--out:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\bin\Debug\netcoreapp1.0\Tracker.Tests.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -208,9 +208,9 @@
 --reference:C:\Users\epicodus\.nuget\packages\xunit.extensibility.execution\2.1.0\lib\dotnet\xunit.execution.dotnet.dll
 --reference:C:\Users\epicodus\.nuget\packages\xunit.runner.reporters\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.reporters.dotnet.dll
 --reference:C:\Users\epicodus\.nuget\packages\xunit.runner.utility\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.utility.dotnet.dll
---reference:c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\src\Tracker\bin\Debug\netcoreapp1.0\Tracker.dll
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\Class1.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\ControllerTests\AssociateControllerTest.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\Models\TestDbContext.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\ModelTests\AssociateTest.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\Properties\AssemblyInfo.cs
+--reference:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\src\Tracker\bin\Debug\netcoreapp1.0\Tracker.dll
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\Class1.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\ControllerTests\AssociateControllerTest.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\Models\TestDbContext.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\ModelTests\AssociateTest.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\Tracker\Tracker.Tests\Tracker.Tests\Properties\AssemblyInfo.cs

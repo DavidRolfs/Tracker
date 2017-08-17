@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Experiences";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="display-view-with-ajax">
+    @model Tracker.Models.Associate
+
+    @using (Html.BeginForm())
+    {
+        @Html.LabelFor(model => model.Name)
+        @Html.EditorFor(model => model.Name)
+
+        @Html.LabelFor(model => model.SalesTotal)
+        @Html.EditorFor(model => model.SalesTotal)
+
+        <input type="submit" value="Create" class="btn btn-default" />
+    }
+
+    @Html.ActionLink("Back to List", "Index")
+   </div>

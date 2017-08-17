@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Experiences";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model IEnumerable<Tracker.Models.Associate>
+<h1>Associates only</h1>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>you are logged in</p>
+    @foreach (var person in Model)
+    {
+        <p>Name: @Html.DisplayFor(modelItem => person.Name)</p>
+       <p>Total Sales: @Html.DisplayFor(modelItem => person.SalesTotal)</p>
+    }
+}
+else
+{
+    <p>you are not logged in</p>
+ }
+
+@*<script type="text/javascript">
+    $(document).ready(function () {
+        $('.display-view').click(function () {
+            $.ajax({
+                type: 'GET',
+                dataType: 'html',
+                url: '@Url.Action("Create")',
+                success: function (result) {
+                $('#result4').html(result);
+             }
+         });
+     });
+});
+</script>*@
+
+<h2>Add a worker</h2>
+<h4 class="display-view">Display view</h4>
+<div id="result4"></div>
